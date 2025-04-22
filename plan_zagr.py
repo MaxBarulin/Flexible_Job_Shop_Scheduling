@@ -252,7 +252,7 @@ def main():
     np.random.seed(42) # For numpy used in statistics
 
     # GA Parameters
-    population_size = 300
+    population_size = 500
     generations = 500   # Number of generations
     cxpb = 0.9         # Crossover probability
     mutpb = 0.5        # Mutation probability (for the whole individual)
