@@ -256,7 +256,7 @@ def main():
     population_size = 200
     generations = 1000   # Number of generations
     cxpb = 0.8         # Crossover probability
-    mutpb = 0.5,       # Mutation probability (for the whole individual)
+    mutpb = 0.5        # Mutation probability (for the whole individual)
 
     # Initialize Population
     print(f"Создание начальной популяции из {population_size} индивидуумов...")
